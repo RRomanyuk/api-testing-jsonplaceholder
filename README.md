@@ -54,6 +54,5 @@ Testing REST API endpoints for the **Posts** resource:
 
 ## 📄 Test Artifacts
 
-- 📂 [Postman Collection](postman/API-Tesing.postman_collection.json)
-- 📊 [Test Cases](test-cases/API_Testing_Project.xlsx)
-- ✅ [Checklist](test-artifacts/API_Testing_Project.xlsx)
+- 📂 [Postman Collection](https://github.com/RRomanyuk/api-testing-jsonplaceholder/blob/29d889a3d421dfe793dfa90526015ee9b356e475/postman/API-Testing.postman_collection.json)
+- 📊 [Test Cases & Checklist](https://github.com/RRomanyuk/api-testing-jsonplaceholder/blob/29d889a3d421dfe793dfa90526015ee9b356e475/test-artifacts/API_Testing_Project.xlsx)
