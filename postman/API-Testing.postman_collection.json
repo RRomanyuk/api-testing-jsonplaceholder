@@ -1,7 +1,7 @@
 {
   "info": {
     "_postman_id": "8fa4e93c-09c7-4fc4-a7a6-aa20dd9cfec8",
-    "name": "API-Tesing",
+    "name": "API-Testing",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
     "_exporter_id": "52145860",
     "_collection_link": "https://go.postman.co/collection/52145860-8fa4e93c-09c7-4fc4-a7a6-aa20dd9cfec8?source=collection_link"
@@ -30,13 +30,13 @@
         "method": "GET",
         "header": [],
         "url": {
-          "raw": "{{base_url}}/posts/3/comments",
+          "raw": "{{base_url}}/posts/150/comments",
           "host": [
             "{{base_url}}"
           ],
           "path": [
             "posts",
-            "3",
+            "150",
             "comments"
           ]
         }
@@ -50,7 +50,7 @@
         "header": [],
         "body": {
           "mode": "raw",
-          "raw": "{\r\n        \"userId\": 99,\r\n        \"id\": 99,\r\n        \"title\": \"new test post\",\r\n        \"body\": \"new post for testing API\"\r\n    }",
+          "raw": "",
           "options": {
             "raw": {
               "language": "json"
